@@ -1,4 +1,4 @@
-# landing-page
+# Random User Profiles
 
 ## Project setup
 ```
